@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">shared-spa</string>
+    <string name="title_activity_main">shared-spa</string>
+    <string name="package_name">beer.com</string>
+    <string name="custom_url_scheme">beer.com</string>
+</resources>
